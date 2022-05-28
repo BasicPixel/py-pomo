@@ -1,1 +1,6 @@
 remote_theme: "dracula/gh-pages"
+
+title: "py-pomo"
+description: ""
+
+show_header: "true"
