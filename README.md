@@ -2,16 +2,38 @@
 
 A simple CLI [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer, made with Python w/[Click](https://click.palletsprojects.com/).
 
+```shell
+pip install py-pomo
+```
+
 All contibutions are welcome.
 
 ---
 
 - [py-pomo](#py-pomo)
-  - [Usage](#usage)
+- [Usage](#usage)
+  - [Installation](#installation)
+  - [Local Installation](#local-installation)
   - [Examples](#examples)
   - [Todo](#todo)
 
-## Usage
+# Usage
+
+## Installation
+
+Install by running:
+
+```
+pip install py-pomo
+```
+
+Then use by running:
+
+```shell
+python -m pomo [--OPTIONS]
+```
+
+## Local Installation
 
 ```shell
 git clone https://github.com/BasicPixel/py-pomo.git # Clone this repo
@@ -62,5 +84,5 @@ pomo --help
 ## Todo
 
 - [ ] Save configuration to a file
-- [ ] Publish to PyPI
+- [x] Publish to PyPI
 - [ ] Test on different environments

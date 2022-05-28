@@ -23,3 +23,7 @@ def cli(duration, in_seconds, minimal):
     duration_in_seconds = duration if in_seconds else duration * 60
 
     start_countdown(duration_in_seconds, minimal)
+
+
+if __name__ == '__main__':
+    cli()
