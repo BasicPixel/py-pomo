@@ -8,7 +8,7 @@ pip install py-pomo
 
 All contibutions are welcome.
 
-![Usage GIF](images/py-pomo-preview.gif)
+![Usage GIF](images/preview.gif)
 
 ---
 
