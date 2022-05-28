@@ -1,6 +1,15 @@
 # py-pomo
 
-A simple CLI [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer, made with python w/[click](https://click.palletsprojects.com/).
+A simple CLI [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer, made with Python w/[Click](https://click.palletsprojects.com/).
+
+All contibutions are welcome.
+
+---
+
+- [py-pomo](#py-pomo)
+  - [Usage](#usage)
+  - [Examples](#examples)
+  - [Todo](#todo)
 
 ## Usage
 
