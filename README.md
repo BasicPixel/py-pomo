@@ -62,3 +62,5 @@ pomo --help
 ## Todo
 
 - [ ] Save configuration to a file
+- [ ] Publish to PyPI
+- [ ] Test on different environments
