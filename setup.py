@@ -12,6 +12,7 @@ setup(
     version="1.0",
     description="A simple CLI pomodoro timer",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/BasicPixel/py-pomo",
     author="Osama AlQudah",
     classifiers=[
