@@ -2,5 +2,3 @@ remote_theme: "dracula/gh-pages"
 
 title: "py-pomo"
 description: "🍅 Simple CLI pomodoro timer"
-
-show_header:  "true"
