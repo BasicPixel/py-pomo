@@ -1,2 +1,6 @@
-# theme: jekyll-theme-midnight
-remote_theme: "poole/hyde"
+remote_theme: "dracula/gh-pages"
+
+title: "py-pomo"
+description: "🍅 Simple CLI pomodoro timer"
+
+show_header:  "true"
