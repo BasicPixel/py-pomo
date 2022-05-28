@@ -1,6 +1,6 @@
 # py-pomo
 
-A simple CLI [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer, made with Python w/[Click](https://click.palletsprojects.com/).
+A simple CLI [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer with many options, made with Python w/ [Click](https://click.palletsprojects.com/) library.
 
 ```shell
 pip install py-pomo
@@ -18,6 +18,12 @@ All contibutions are welcome.
   - [Todo](#todo)
 
 # Usage
+
+To use this program, you can either:
+
+1. Download and run the executable file found in the releases page (\*unix only)
+2. Install the script as a python module using pip
+3. Clone the repo, install and run locally
 
 ## Installation
 
